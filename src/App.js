@@ -17,7 +17,7 @@ function App() {
       <Header />
       <Sidebar />
       <Routes>
-        <Route path = "/" element = {<Home />} />
+        <Route path = "/Fast-Eat" element = {<Home/>} />
         <Route path = "/meal/:id" element = {<MealDetails />} />
         <Route path = "/meal/category/:name" element = {<Category />} />
         <Route path  = "*" element = {<Error />} />
