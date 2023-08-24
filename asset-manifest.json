@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fast-Eat/static/css/main.d9fd8ac4.css",
+    "main.js": "/Fast-Eat/static/js/main.b2bc95be.js",
+    "static/media/header_image.jpg": "/Fast-Eat/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "static/media/loader.svg": "/Fast-Eat/static/media/loader.e8fc3e54ab6ff41adff8c7f29e26f56c.svg",
+    "index.html": "/Fast-Eat/index.html",
+    "main.d9fd8ac4.css.map": "/Fast-Eat/static/css/main.d9fd8ac4.css.map",
+    "main.b2bc95be.js.map": "/Fast-Eat/static/js/main.b2bc95be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fd8ac4.css",
+    "static/js/main.b2bc95be.js"
+  ]
+}
